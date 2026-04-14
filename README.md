@@ -3,7 +3,7 @@
 
 - 邹毅2025303110076      [@zy076](https://github.com/zy076)
 - 王东浩2025303110072    [@Fuguiera11y](https://github.com/Fuguiera11y)
-- 刘谦2025303110050      [@liuqian615](https://github.com/liuqian615)
+- 刘谦2025303110050      [@Liuqian615](https://github.com/Liuqian615)
 - 李飒2025303120111
 - 赵俊然2025303110075
 
